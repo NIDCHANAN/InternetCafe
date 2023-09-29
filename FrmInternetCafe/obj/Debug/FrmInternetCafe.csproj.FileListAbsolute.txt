@@ -1,0 +1,11 @@
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\bin\Debug\FrmInternetCafe.exe.config
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\bin\Debug\FrmInternetCafe.exe
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\bin\Debug\FrmInternetCafe.pdb
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.csproj.AssemblyReference.cache
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.Properties.Resources.resources
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.csproj.GenerateResource.cache
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.csproj.CoreCompileInputs.cache
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.exe
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.pdb
+C:\Users\nidchanan.wiangthong\source\repos\FrmInternetCafe\FrmInternetCafe\obj\Debug\FrmInternetCafe.FrmInternetcafe.resources
